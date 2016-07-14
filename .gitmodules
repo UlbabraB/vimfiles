@@ -1,0 +1,27 @@
+[submodule "bundle/delimitMate"]
+	path = bundle/delimitMate
+	url = https://github.com/Raimondi/delimitMate.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = https://github.com/scrooloose/syntastic.git
+[submodule "bundle/tabular"]
+	path = bundle/tabular
+	url = https://github.com/godlygeek/tabular
+[submodule "bundle/vim-flake8"]
+	path = bundle/vim-flake8
+	url = https://github.com/nvie/vim-flake8.git
+[submodule "bundle/vim-json"]
+	path = bundle/vim-json
+	url = https://github.com/elzr/vim-json.git
+[submodule "bundle/vim-puppet"]
+	path = bundle/vim-puppet
+	url = https://github.com/rodjek/vim-puppet.git
+[submodule "bundle/vim-sensible"]
+	path = bundle/vim-sensible
+	url = https://github.com/tpope/vim-sensible.git
+[submodule "bundle/vim-snippets"]
+	path = bundle/vim-snippets
+	url = https://github.com/honza/vim-snippets.git
